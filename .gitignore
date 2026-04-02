@@ -1,0 +1,85 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.kt.swp
+*.swp
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# IDE - VS Code
+.vscode/
+
+# IDE - Fleet
+.fleet/
+
+# Native Image (GraalVM)
+native-image.properties
+*.dylib
+*.so
+*.dll
+*.exe
+*.log
+reachability-metadata.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Logs
+logs/
+*.log
+log/
+
+# Sensitive files
+*.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# Build outputs
+dist/
+target/
+*.class
+
+# Test output
+test-output/
+*.hprof
+
+# Package Files
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Claude Code specific
+.claude/
+claude_desktop_memory.json
