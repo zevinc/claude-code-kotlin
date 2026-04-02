@@ -1,0 +1,38 @@
+[
+  {
+    "name": "com.anthropic.claudecode.types.Message"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.Message$User"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.Message$Assistant"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.Message$System"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock$Text"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock$ToolUse"
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock$ToolResult"
+  },
+  {
+    "name": "com.anthropic.claudecode.utils.config.SettingsLoader$AppSettings"
+  },
+  {
+    "name": "com.anthropic.claudecode.utils.config.SettingsLoader$HookConfig"
+  },
+  {
+    "name": "com.anthropic.claudecode.utils.tokens.TokenUsageSummary"
+  },
+  {
+    "name": "com.anthropic.claudecode.utils.tokens.CostBreakdown"
+  }
+]

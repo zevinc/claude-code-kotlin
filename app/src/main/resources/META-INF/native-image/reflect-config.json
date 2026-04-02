@@ -1,0 +1,52 @@
+[
+  {
+    "name": "com.anthropic.claudecode.types.Message",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.types.Message$User",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.types.Message$Assistant",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock$Text",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock$ToolUse",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.types.ContentBlock$ToolResult",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.anthropic.claudecode.utils.config.SettingsLoader$AppSettings",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "ch.qos.logback.classic.Logger",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "ch.qos.logback.classic.spi.LoggingEvent",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  }
+]
